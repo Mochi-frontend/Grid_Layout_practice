@@ -1,6 +1,3 @@
-.grid {
-  display: grid;
-}
 .grid__parent {
   display: grid;
   grid-template-rows: 100px 300px 300px;
